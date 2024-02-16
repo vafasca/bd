@@ -199,46 +199,6 @@
             "logo": "url_del_logo_5",
             "date_release": "2023-07-01T00:00:00.000+00:00",
             "date_revision": "2024-07-01T00:00:00.000+00:00"
-          },
-          {
-            "id": "trj-crd26",
-            "name": "Tarjetas de Credito 6",
-            "description": "Tarjeta de consumo bajo la modalidad de credito 6",
-            "logo": "url_del_logo_6",
-            "date_release": "2023-08-01T00:00:00.000+00:00",
-            "date_revision": "2024-08-01T00:00:00.000+00:00"
-          },
-          {
-            "id": "trj-crd27",
-            "name": "Tarjetas de Credito 7",
-            "description": "Tarjeta de consumo bajo la modalidad de credito 7",
-            "logo": "url_del_logo_7",
-            "date_release": "2023-09-01T00:00:00.000+00:00",
-            "date_revision": "2024-09-01T00:00:00.000+00:00"
-          },
-          {
-            "id": "trj-crd28",
-            "name": "Tarjetas de Credito 8",
-            "description": "Tarjeta de consumo bajo la modalidad de credito 8",
-            "logo": "url_del_logo_8",
-            "date_release": "2023-10-01T00:00:00.000+00:00",
-            "date_revision": "2024-10-01T00:00:00.000+00:00"
-          },
-          {
-            "id": "trj-crd29",
-            "name": "Tarjetas de Credito 9",
-            "description": "Tarjeta de consumo bajo la modalidad de credito 9",
-            "logo": "url_del_logo_9",
-            "date_release": "2023-11-01T00:00:00.000+00:00",
-            "date_revision": "2024-11-01T00:00:00.000+00:00"
-          },
-          {
-            "id": "trj-crd30",
-            "name": "Tarjetas de Credito 10",
-            "description": "Tarjeta de consumo bajo la modalidad de credito 10",
-            "logo": "url_del_logo_10",
-            "date_release": "2023-12-01T00:00:00.000+00:00",
-            "date_revision": "2024-12-01T00:00:00.000+00:00"
           }
       ]
   }
