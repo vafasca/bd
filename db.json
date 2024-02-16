@@ -175,30 +175,6 @@
             "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png",
             "date_release": "2023-04-01T00:00:00.000+00:00",
             "date_revision": "2024-04-01T00:00:00.000+00:00"
-          },
-          {
-            "id": "trj-crd23",
-            "name": "Tarjetas de Credito 3",
-            "description": "Tarjeta de consumo bajo la modalidad de credito 3",
-            "logo": "url_del_logo_3",
-            "date_release": "2023-05-01T00:00:00.000+00:00",
-            "date_revision": "2024-05-01T00:00:00.000+00:00"
-          },
-          {
-            "id": "trj-crd24",
-            "name": "Tarjetas de Credito 4",
-            "description": "Tarjeta de consumo bajo la modalidad de credito 4",
-            "logo": "url_del_logo_4",
-            "date_release": "2023-06-01T00:00:00.000+00:00",
-            "date_revision": "2024-06-01T00:00:00.000+00:00"
-          },
-          {
-            "id": "trj-crd25",
-            "name": "Tarjetas de Credito 5",
-            "description": "Tarjeta de consumo bajo la modalidad de credito 5",
-            "logo": "url_del_logo_5",
-            "date_release": "2023-07-01T00:00:00.000+00:00",
-            "date_revision": "2024-07-01T00:00:00.000+00:00"
           }
       ]
   }
