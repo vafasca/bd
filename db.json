@@ -4,7 +4,7 @@
             "id": "trj-crd1",
             "name": "Tarjetas de Credito 1",
             "description": "Tarjeta de consumo bajo la modalidad de credito 1",
-            "logo": "url_del_logo_1",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png",
             "date_release": "2023-03-01T00:00:00.000+00:00",
             "date_revision": "2024-03-01T00:00:00.000+00:00"
           },
@@ -12,7 +12,7 @@
             "id": "trj-crd2",
             "name": "Tarjetas de Credito 2",
             "description": "Tarjeta de consumo bajo la modalidad de credito 2",
-            "logo": "url_del_logo_2",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png",
             "date_release": "2023-04-01T00:00:00.000+00:00",
             "date_revision": "2024-04-01T00:00:00.000+00:00"
           },
